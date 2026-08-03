@@ -1,5 +1,8 @@
 # OmniGuard — Groq-powered safety MVP
 
+<img width="452" height="131" alt="image" src="https://github.com/user-attachments/assets/cb688e71-9e30-4226-8d29-20e45023345e" />
+
+
 A runnable hackathon website with physical check-ins, digital privacy tools, scam analysis, online-bullying support, and wildfire ignition-risk screening.
 
 ## Fastest way to run on Windows
