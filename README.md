@@ -4,10 +4,6 @@ A runnable hackathon website with physical check-ins, digital privacy tools, sca
 
 ## Fastest way to run on Windows
 
-### Before starting
-
-Install **Python 3.10 or newer** if Python is not already installed. During installation, enable **Add Python to PATH**.
-
 ### Start the website
 
 1. Extract the downloaded ZIP.
