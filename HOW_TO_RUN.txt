@@ -1,0 +1,45 @@
+OMNIGUARD — SIMPLE WINDOWS START
+
+1. Extract the ZIP file.
+2. Open the extracted OmniGuard_Sidebar_UI_v24 folder.
+3. Double-click START_OMNIGUARD.bat.
+4. On the first run, the required packages install automatically.
+5. The website opens at http://127.0.0.1:8000.
+6. Paste your Groq API key into the Groq Connection panel.
+7. Click “Save for this tab,” then “Test key.”
+
+To stop the app:
+Close the black terminal window, or click it and press Ctrl+C.
+
+MANUAL WINDOWS METHOD
+
+1. Open the project folder in File Explorer.
+2. Click the folder address bar at the top.
+3. Type: cmd
+4. Press Enter. The terminal is now already inside the correct folder.
+5. Type this one command and press Enter:
+
+   py start.py
+
+If “py” does not work, use:
+
+   python start.py
+
+WHAT “cd” MEANS
+
+cd means “change directory.” It tells the terminal which folder to work inside.
+You do not need to type cd when you open Command Prompt by typing cmd into the
+File Explorer address bar, because that method starts the terminal in the folder.
+
+API KEY PRIVACY
+
+The API key is stored only in the current browser tab using sessionStorage.
+It is not saved in app.py, safety.db, or another project file. Closing the tab
+clears it. This is suitable for a local hackathon demo. Do not use this design
+for a public website where visitors enter a shared production key.
+
+MEMORY ASSIST
+-------------
+Open the Memory Assist tab, confirm consent, and click Start camera.
+The first use downloads the browser face models, so keep the computer online.
+Enroll only people who consent. Use Family & faces to delete one person or all descriptors.
